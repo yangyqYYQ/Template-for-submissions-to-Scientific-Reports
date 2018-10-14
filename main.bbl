@@ -15,12 +15,12 @@
 \newblock {\emph{\JournalTitle{Science}}} \textbf{\bibinfo{volume}{343}},
   \bibinfo{pages}{80--84} (\bibinfo{year}{2014}).
 
-\bibitem{Hao:gidmaps:2014}
-\bibinfo{author}{Hao, Z.}, \bibinfo{author}{AghaKouchak, A.},
-  \bibinfo{author}{Nakhjiri, N.} \& \bibinfo{author}{Farahmand, A.}
-\newblock \bibinfo{title}{Global integrated drought monitoring and prediction
-  system ({GIDMaPS}) data sets}.
-\newblock \bibinfo{howpublished}{\emph{figshare}
-  \url{http://dx.doi.org/10.6084/m9.figshare.853801}} (\bibinfo{year}{2014}).
+\bibitem{li2014mageck}
+\bibinfo{author}{Li, W.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Mageck enables robust
+  identification of essential genes from genome-scale crispr/cas9 knockout
+  screens}}.
+\newblock {\emph{\JournalTitle{Genome biology}}} \textbf{\bibinfo{volume}{15}},
+  \bibinfo{pages}{554} (\bibinfo{year}{2014}).
 
 \end{thebibliography}
