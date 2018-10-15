@@ -3,46 +3,44 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: main.aux
 The style file: naturemag-doi.bst
 Database file #1: sample.bib
-Warning--I didn't find a database entry for "Hao:gidmaps:2014"
-You've used 2 entries,
+You've used 3 entries,
             2380 wiz_defined-function locations,
-            1007 strings with 9469 characters,
-and the built_in function-call counts, 823 in all, are:
-= -- 52
-> -- 24
+            1012 strings with 9678 characters,
+and the built_in function-call counts, 1183 in all, are:
+= -- 73
+> -- 40
 < -- 0
-+ -- 12
-- -- 6
-* -- 107
-:= -- 96
-add.period$ -- 6
-call.type$ -- 2
-change.case$ -- 2
++ -- 20
+- -- 10
+* -- 155
+:= -- 136
+add.period$ -- 9
+call.type$ -- 3
+change.case$ -- 3
 chr.to.int$ -- 0
-cite$ -- 2
-duplicate$ -- 73
-empty$ -- 70
-format.name$ -- 8
-if$ -- 154
+cite$ -- 3
+duplicate$ -- 108
+empty$ -- 98
+format.name$ -- 13
+if$ -- 223
 int.to.chr$ -- 0
-int.to.str$ -- 2
-missing$ -- 18
-newline$ -- 20
-num.names$ -- 2
-pop$ -- 11
+int.to.str$ -- 3
+missing$ -- 27
+newline$ -- 25
+num.names$ -- 3
+pop$ -- 19
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 12
+skip$ -- 19
 stack$ -- 0
 substring$ -- 28
-swap$ -- 76
+swap$ -- 112
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 5
-width$ -- 3
-write$ -- 31
-(There was 1 warning)
+while$ -- 6
+width$ -- 4
+write$ -- 42

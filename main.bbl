@@ -23,4 +23,12 @@
 \newblock {\emph{\JournalTitle{Genome biology}}} \textbf{\bibinfo{volume}{15}},
   \bibinfo{pages}{554} (\bibinfo{year}{2014}).
 
+\bibitem{di2011nbp}
+\bibinfo{author}{Di, Y.}, \bibinfo{author}{Schafer, D.~W.},
+  \bibinfo{author}{Cumbie, J.~S.} \& \bibinfo{author}{Chang, J.~H.}
+\newblock \bibinfo{journal}{\bibinfo{title}{The nbp negative binomial model for
+  assessing differential gene expression from rna-seq}}.
+\newblock {\emph{\JournalTitle{Statistical Applications in Genetics and
+  Molecular Biology}}} \textbf{\bibinfo{volume}{10}} (\bibinfo{year}{2011}).
+
 \end{thebibliography}
