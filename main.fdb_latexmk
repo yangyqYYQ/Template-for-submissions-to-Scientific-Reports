@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex main"] 1539615927 "main.aux" "main.bbl" "main" 1539618421
+["bibtex main"] 1539619879 "main.aux" "main.bbl" "main" 1539620442
   "./naturemag-doi.bst" 1539419855 36153 a59af0557a0f0c0e857533e984f737bb ""
-  "main.aux" 1539618421 1910 a9bdd3f87444583a20d839c38cae8b27 ""
-  "sample.bib" 1539596527 1401 208c17da61d6934c5242566a6f18f0a7 ""
+  "main.aux" 1539620442 2033 eaddc2e651a0987cdd2810189ff9b995 ""
+  "sample.bib" 1539619861 1897 b3689640e8a097210858ac5b6ac01dbe ""
   (generated)
-  "main.bbl"
   "main.blg"
-["pdflatex"] 1539618419 "/Users/super_yyq/Desktop/生信/Template-for-submissions-to-Scientific-Reports/main.tex" "main.pdf" "main" 1539618421
-  "/Users/super_yyq/Desktop/生信/Template-for-submissions-to-Scientific-Reports/main.tex" 1539618419 7877 dc7ab28efb4b53d63c19f3d5a89d399d ""
+  "main.bbl"
+["pdflatex"] 1539620440 "/Users/super_yyq/Desktop/生信/Template-for-submissions-to-Scientific-Reports/main.tex" "main.pdf" "main" 1539620442
+  "/Users/super_yyq/Desktop/生信/Template-for-submissions-to-Scientific-Reports/main.tex" 1539620440 9071 d038b6641135f41bd9ce3c515ec00a0e ""
   "/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc" 1480098666 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/courier/pcrr8r.tfm" 1480098688 1292 bd42be2f344128bff6d35d98474adfe3 ""
@@ -131,6 +131,7 @@
   "/usr/local/texlive/2017/texmf-dist/tex/latex/preprint/authblk.sty" 1480098837 7016 985a983ce041cc8959cd31133cba0244 ""
   "/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/mathptmx.sty" 1480098837 4632 cd6d04f090f831ba44222ab7ccd5d2d4 ""
   "/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omlztmcm.fd" 1480098837 411 12564a37a279e4e0b533cdf5e03eeb7c ""
+  "/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omsptm.fd" 1480098837 576 95c2c0baea9c719a4be29a3d4122498b ""
   "/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omsztmcm.fd" 1480098837 348 f4ce75d394e7d9ac12ca7aac4045ed77 ""
   "/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omxztmcm.fd" 1480098837 329 c8cddcc90b6f567b28408eb374773c9c ""
   "/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1phv.fd" 1480098837 1684 0ac4554419e828cf2c810306539da167 ""
@@ -153,14 +154,14 @@
   "jabbrv-ltwa-all.ldf" 1539419855 49107 ef89484545be005458b7162f37634c99 ""
   "jabbrv-ltwa-en.ldf" 1539419855 268657 c239d07b7cc89e14f920c5fc8ed8d12e ""
   "jabbrv.sty" 1539419855 15480 2106da179daf9d5a102407956ba23e0c ""
-  "main.aux" 1539618421 1910 a9bdd3f87444583a20d839c38cae8b27 ""
-  "main.bbl" 1539615928 1883 888df27c5f22149b8047788220668b5f "bibtex main"
-  "main.out" 1539618421 48 fc92614a81256c040c8c15379d1f1ebd ""
-  "main.tex" 1539618419 7877 dc7ab28efb4b53d63c19f3d5a89d399d ""
+  "main.aux" 1539620442 2033 eaddc2e651a0987cdd2810189ff9b995 ""
+  "main.bbl" 1539619879 2465 e0f7d73f810922258de27a82ee0025a4 "bibtex main"
+  "main.out" 1539620442 48 fc92614a81256c040c8c15379d1f1ebd ""
+  "main.tex" 1539620440 9071 d038b6641135f41bd9ce3c515ec00a0e ""
   "stream.jpg" 1539419855 379752 0d2b78190bb8e3a8b437b513aa4c6aaa ""
   "wlscirep.cls" 1539419855 5788 9df2749839c3a8af12c7b5623dab1715 ""
   (generated)
-  "main.aux"
   "main.out"
   "main.pdf"
   "main.log"
+  "main.aux"

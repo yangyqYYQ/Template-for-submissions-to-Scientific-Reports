@@ -38,4 +38,15 @@
 \newblock {\emph{\JournalTitle{Genome biology}}} \textbf{\bibinfo{volume}{11}},
   \bibinfo{pages}{R25} (\bibinfo{year}{2010}).
 
+\bibitem{doi:10.1093/bioinformatics/btr709}
+\bibinfo{author}{Kolde, R.}, \bibinfo{author}{Laur, S.},
+  \bibinfo{author}{Adler, P.} \& \bibinfo{author}{Vilo, J.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Robust rank aggregation for gene
+  list integration and meta-analysis}}.
+\newblock {\emph{\JournalTitle{Bioinformatics}}} \textbf{\bibinfo{volume}{28}},
+  \bibinfo{pages}{573--580}, \doiprefix\url{10.1093/bioinformatics/btr709}
+  (\bibinfo{year}{2012}).
+\newblock
+  \eprint{/oup/backfile/content_public/journal/bioinformatics/28/4/10.1093_bioinformatics_btr709/2/btr709.pdf}.
+
 \end{thebibliography}
