@@ -31,4 +31,11 @@
 \newblock {\emph{\JournalTitle{Statistical Applications in Genetics and
   Molecular Biology}}} \textbf{\bibinfo{volume}{10}} (\bibinfo{year}{2011}).
 
+\bibitem{robinson2010scaling}
+\bibinfo{author}{Robinson, M.~D.} \& \bibinfo{author}{Oshlack, A.}
+\newblock \bibinfo{journal}{\bibinfo{title}{A scaling normalization method for
+  differential expression analysis of rna-seq data}}.
+\newblock {\emph{\JournalTitle{Genome biology}}} \textbf{\bibinfo{volume}{11}},
+  \bibinfo{pages}{R25} (\bibinfo{year}{2010}).
+
 \end{thebibliography}
