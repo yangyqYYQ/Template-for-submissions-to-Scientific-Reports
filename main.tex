@@ -37,13 +37,18 @@ Up to three levels of \textbf{subheading} are permitted. Subheadings should not 
 
 \subsubsection*{Overview of MAGeCK Algorithm}
 
-A schematic of the MAGeCK Algorithm is presented as follow.
+A schematic of the MAGeCK Algorithm is presented as follow\cite{li2014mageck}.
 \begin{enumerate}
     \item Read counts from different samples are median-normalized, which enables each sample to have the same median value.
     \item A mean-variance model is established by following the \textbf{empirical} equation:
         \begin{equation}
            \hat{\sigma}^2=\hat{\mu}+k\hat{\mu}^b
         \end{equation}
+        or
+        \begin{equation}
+            \log{(\hat{\sigma}^2-\hat{\mu})}=\log{k}+b\log{\hat{\mu}}\textrm{,} k\geqslant{0} \textrm{,}b\geqslant{0}
+         \end{equation}
+        In the above formula, $\hat{\sigma}$ represents sample varience, and $\hat{\mu}$ represents sample means.  This approach aims to estimate the varience of the read counts within one condition in a small number of replicates.
     \end{enumerate}
 
 \subsubsection*{Algorithm Characteristics}
